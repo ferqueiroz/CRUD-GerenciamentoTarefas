@@ -1,4 +1,4 @@
-package com.queiroz.Gerenciamento_Pedidos;
+package com.queiroz.Gerenciamento_Tarefas;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

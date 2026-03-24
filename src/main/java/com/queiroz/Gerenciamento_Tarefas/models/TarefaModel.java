@@ -1,4 +1,4 @@
-package com.queiroz.Gerenciamento_Pedidos.models;
+package com.queiroz.Gerenciamento_Tarefas.models;
 
 import jakarta.persistence.*;
 

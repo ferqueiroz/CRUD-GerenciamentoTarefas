@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.queiroz</groupId>
-	<artifactId>Gerenciamento-Pedidos</artifactId>
+	<artifactId>Gerenciamento-Tarefas</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name/>
 	<description/>
