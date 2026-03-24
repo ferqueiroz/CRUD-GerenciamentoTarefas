@@ -1,4 +1,4 @@
-# Exercício 05: Gerenciamento de Tarefas
+# Exercício 10: Gerenciamento de Tarefas
 
 ## Enunciado
 Implemente uma aplicação Spring Boot para gerenciar tarefas. O objetivo é praticar mapeamento JPA com tipos de data e booleanos, e operações CRUD.
